@@ -1,2 +1,2 @@
 # Android
-This Folder Contains all my android project
+This Folder Contains android project
