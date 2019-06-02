@@ -1,2 +1,2 @@
-![](Images/Create-user.png)
+![](../Images/Create-user.png)
 ![](Images/show-userList.png)
